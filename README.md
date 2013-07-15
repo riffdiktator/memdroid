@@ -1,4 +1,4 @@
-memdroid
-========
+memdroid v0.0.1
+===============
 
-Take a photo and mem them
+Take a photo, add some stupid text and laugh
